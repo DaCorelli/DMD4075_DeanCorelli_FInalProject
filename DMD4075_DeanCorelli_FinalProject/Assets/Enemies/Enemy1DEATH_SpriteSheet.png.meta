@@ -1,37 +1,25 @@
 fileFormatVersion: 2
-guid: 1f495fd938e2b72409d689c2a254ba63
+guid: 83340243cbbffcd4380e0ea9e975fba3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1353218915898688352
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_0
+      213: -6396792857160045264
+    second: Enemy1DEATH_SpriteSheet_0
   - first:
-      213: -3258498625031131607
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_1
+      213: -7895391736078518410
+    second: Enemy1DEATH_SpriteSheet_1
   - first:
-      213: -8626286279982173570
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_2
+      213: -7099596600125178956
+    second: Enemy1DEATH_SpriteSheet_2
   - first:
-      213: -4594497926834110609
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_3
+      213: 2546120446076704986
+    second: Enemy1DEATH_SpriteSheet_3
   - first:
-      213: 4687932460231886386
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_4
+      213: 2309654842171264617
+    second: Enemy1DEATH_SpriteSheet_4
   - first:
-      213: -7390472665055109794
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_5
-  - first:
-      213: 7754151487493300102
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_6
-  - first:
-      213: 8736672212903776057
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_7
-  - first:
-      213: -7483880567481107744
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_8
-  - first:
-      213: 1166004826160270581
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_9
+      213: -1345481584312719236
+    second: Enemy1DEATH_SpriteSheet_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -76,7 +64,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -133,13 +121,76 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_0
+      name: Enemy1DEATH_SpriteSheet_0
       rect:
         serializedVersion: 2
-        x: 52
-        y: 406
+        x: 57
+        y: 372
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d283fb9c60a37a0800000000000000
+      internalID: -6396792857160045264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1DEATH_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 372
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773c703c0fed6290800000000000000
+      internalID: -7895391736078518410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1DEATH_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 372
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb7f8e18a297d90800000000000000
+      internalID: -7099596600125178956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1DEATH_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 247
         width: 36
-        height: 51
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,188 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0acf48ec096683de0800000000000000
-      internalID: -1353218915898688352
+      spriteID: ad8d2c74e03a55320800000000000000
+      internalID: 2546120446076704986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_1
+      name: Enemy1DEATH_SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 201
-        y: 406
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92eabe9c3cc77c2d0800000000000000
-      internalID: -3258498625031131607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_2
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 406
-        width: 42
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7236d61556494880800000000000000
-      internalID: -8626286279982173570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_3
-      rect:
-        serializedVersion: 2
-        x: 493
-        y: 406
-        width: 45
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6fb8cd6a701d30c0800000000000000
-      internalID: -4594497926834110609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_4
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 406
-        width: 48
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 236052f1cb1ee0140800000000000000
-      internalID: 4687932460231886386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_5
-      rect:
-        serializedVersion: 2
-        x: 793
-        y: 406
-        width: 45
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5dd72d7444cf6990800000000000000
-      internalID: -7390472665055109794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_6
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 256
-        width: 48
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68fda92d1b74c9b60800000000000000
-      internalID: 7754151487493300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_7
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 256
-        width: 38
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93fc729b615ee3970800000000000000
-      internalID: 8736672212903776057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_8
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 256
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0eaf6d1764ae32890800000000000000
-      internalID: -7483880567481107744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_9
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 256
+        x: 207
+        y: 224
         width: 36
-        height: 51
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,8 +219,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fc8cad263b7e2010800000000000000
-      internalID: 1166004826160270581
+      spriteID: 96e016587da8d0020800000000000000
+      internalID: 2309654842171264617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1DEATH_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 211
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e533b0a3e35de0800000000000000
+      internalID: -1345481584312719236
       vertices: []
       indices: 
       edges: []
