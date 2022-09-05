@@ -1,37 +1,22 @@
 fileFormatVersion: 2
-guid: 1f495fd938e2b72409d689c2a254ba63
+guid: 0e80c482def260e469b2b714625d6b41
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1353218915898688352
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_0
+      213: 325324861010876202
+    second: MainCharacterIdle 2_0
   - first:
-      213: -3258498625031131607
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_1
+      213: 8645396292402669582
+    second: MainCharacterIdle 2_1
   - first:
-      213: -8626286279982173570
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_2
+      213: -5130476731915975412
+    second: MainCharacterIdle 2_2
   - first:
-      213: -4594497926834110609
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_3
+      213: -8157832831784798103
+    second: MainCharacterIdle 2_3
   - first:
-      213: 4687932460231886386
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_4
-  - first:
-      213: -7390472665055109794
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_5
-  - first:
-      213: 7754151487493300102
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_6
-  - first:
-      213: 8736672212903776057
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_7
-  - first:
-      213: -7483880567481107744
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_8
-  - first:
-      213: 1166004826160270581
-    second: MainCharacterStaffAnimationLeft_SpriteSheet_9
+      213: 198007562146931618
+    second: MainCharacterIdle 2_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -133,7 +118,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_0
+      name: MainCharacterIdle 2_0
       rect:
         serializedVersion: 2
         x: 52
@@ -147,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0acf48ec096683de0800000000000000
-      internalID: -1353218915898688352
+      spriteID: a271829cc39c38400800000000000000
+      internalID: 325324861010876202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_1
+      name: MainCharacterIdle 2_1
       rect:
         serializedVersion: 2
-        x: 201
+        x: 202
         y: 406
-        width: 37
-        height: 51
+        width: 36
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,19 +153,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92eabe9c3cc77c2d0800000000000000
-      internalID: -3258498625031131607
+      spriteID: e08e3276f1e9af770800000000000000
+      internalID: 8645396292402669582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_2
+      name: MainCharacterIdle 2_2
       rect:
         serializedVersion: 2
-        x: 346
+        x: 352
         y: 406
-        width: 42
+        width: 36
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -189,143 +174,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7236d61556494880800000000000000
-      internalID: -8626286279982173570
+      spriteID: c05cdb14892ecc8b0800000000000000
+      internalID: -5130476731915975412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_3
+      name: MainCharacterIdle 2_3
       rect:
         serializedVersion: 2
-        x: 493
-        y: 406
-        width: 45
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6fb8cd6a701d30c0800000000000000
-      internalID: -4594497926834110609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_4
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 406
-        width: 48
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 236052f1cb1ee0140800000000000000
-      internalID: 4687932460231886386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_5
-      rect:
-        serializedVersion: 2
-        x: 793
-        y: 406
-        width: 45
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5dd72d7444cf6990800000000000000
-      internalID: -7390472665055109794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_6
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 256
-        width: 48
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68fda92d1b74c9b60800000000000000
-      internalID: 7754151487493300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_7
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 256
-        width: 38
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93fc729b615ee3970800000000000000
-      internalID: 8736672212903776057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_8
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 256
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0eaf6d1764ae32890800000000000000
-      internalID: -7483880567481107744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharacterStaffAnimationLeft_SpriteSheet_9
-      rect:
-        serializedVersion: 2
-        x: 502
+        x: 52
         y: 256
         width: 36
         height: 51
@@ -336,8 +195,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fc8cad263b7e2010800000000000000
-      internalID: 1166004826160270581
+      spriteID: 968b274f24e89ce80800000000000000
+      internalID: -8157832831784798103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterIdle 2_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3eb9424d67fb200800000000000000
+      internalID: 198007562146931618
       vertices: []
       indices: 
       edges: []

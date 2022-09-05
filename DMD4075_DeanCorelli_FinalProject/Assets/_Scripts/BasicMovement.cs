@@ -8,6 +8,7 @@ public class BasicMovement : MonoBehaviour
     Vector2 move;
     public int speed;
 
+    public bool isGrounded = false;
 
     public Animator animator;
 
@@ -20,6 +21,8 @@ public class BasicMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Jump();
+
         //Play walking animations 
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
 
@@ -36,4 +39,15 @@ public class BasicMovement : MonoBehaviour
         //transform.position = transform.position + horizontal * Time.deltaTime;
 
     }
+    void Jump()
+    {
+        if (Input.GetKeyDown("w") && isGrounded == true)
+        {
+
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 10f), ForceMode2D.Impulse);
+        }
+
+   
+    }
+
 }
