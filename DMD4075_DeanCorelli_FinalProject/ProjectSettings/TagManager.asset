@@ -9,6 +9,8 @@ TagManager:
   - Background
   - NoMask
   - Ground
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX

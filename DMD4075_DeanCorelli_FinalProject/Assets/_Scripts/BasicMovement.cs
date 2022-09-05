@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class BasicMovement : MonoBehaviour
 {
+    
+
+  //  public GameObject bulletToRight, bulletToLeft;
+  //  Vector2 bulletPos;
+  //  public float fireRate = 0.5f;
+  //  float nextFire = 0.0f;
+
+    // bool facingRight = true;
 
     Vector2 move;
     public int speed;
@@ -11,6 +19,8 @@ public class BasicMovement : MonoBehaviour
     public bool isGrounded = false;
 
     public Animator animator;
+
+    private bool m_FacingRight = true; 
 
     // Start is called before the first frame update
     void Start()
@@ -34,6 +44,12 @@ public class BasicMovement : MonoBehaviour
 
         transform.Translate(move * speed * Time.deltaTime);
 
+      //  if(Input.GetMouseButtonDown(0) && Time.time > nextFire)
+      //  {
+          //  nextFire = Time.time + fireRate;
+           // fire();
+     //   }
+
 
        // Vector3 horizontal = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
         //transform.position = transform.position + horizontal * Time.deltaTime;
@@ -49,5 +65,16 @@ public class BasicMovement : MonoBehaviour
 
    
     }
+
+    private void Flip()
+    {
+        m_FacingRight = !m_FacingRight;
+
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
+    }
+
+
 
 }
