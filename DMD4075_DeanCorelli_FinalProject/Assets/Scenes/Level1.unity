@@ -3600,7 +3600,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.11938238, y: -0.0002989024}
+  m_Offset: {x: 0.11938238, y: -0.003967896}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3611,7 +3611,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5959368, y: 0.07211658}
+  m_Size: {x: 0.5959368, y: 0.07945457}
   m_EdgeRadius: 0
 --- !u!114 &340207578
 MonoBehaviour:
@@ -3691,22 +3691,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 5085441792694636098}
   m_PrefabAsset: {fileID: 0}
---- !u!70 &669176671
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 669176670}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1.1, y: 1.475}
-  m_Direction: 0
 --- !u!50 &669176672
 Rigidbody2D:
   serializedVersion: 4
@@ -3769,6 +3753,32 @@ MonoBehaviour:
   player: {fileID: 1077172393}
   agroRange: 6
   moveSpeed: 1
+--- !u!61 &669176678
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 669176670}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0075143576, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.1, y: 1.475}
+    newSize: {x: 0.44, y: 0.59}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.0849712, y: 1.475}
+  m_EdgeRadius: 0
 --- !u!1 &1066594280
 GameObject:
   m_ObjectHideFlags: 0
@@ -3914,6 +3924,7 @@ GameObject:
   - component: {fileID: 1077172395}
   - component: {fileID: 1077172396}
   - component: {fileID: 1077172397}
+  - component: {fileID: 1077172398}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -3955,7 +3966,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  isGrounded: 0
+  isGrounded: 1
   animator: {fileID: 1077172395}
 --- !u!212 &1077172392
 SpriteRenderer:
@@ -4106,6 +4117,21 @@ MonoBehaviour:
   firePoint: {fileID: 1213773313}
   damage: 40
   lineRenderer: {fileID: 1066594281}
+--- !u!114 &1077172398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1077172389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3005c15933d10fd458d18376b13d3a73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 1077172390}
+  health: 100
+  animator: {fileID: 1077172395}
 --- !u!1 &1090601409
 GameObject:
   m_ObjectHideFlags: 0
