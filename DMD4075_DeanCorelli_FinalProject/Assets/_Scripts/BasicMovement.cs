@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class BasicMovement : MonoBehaviour
 {
-    
 
-  //  public GameObject bulletToRight, bulletToLeft;
-  //  Vector2 bulletPos;
-  //  public float fireRate = 0.5f;
-  //  float nextFire = 0.0f;
+
+    //  public GameObject bulletToRight, bulletToLeft;
+    //  Vector2 bulletPos;
+    //  public float fireRate = 0.5f;
+    //  float nextFire = 0.0f;
 
     // bool facingRight = true;
+
+    
 
     Vector2 move;
     public int speed;
@@ -31,6 +33,9 @@ public class BasicMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+
+
         Jump();
 
         //Play walking animations 

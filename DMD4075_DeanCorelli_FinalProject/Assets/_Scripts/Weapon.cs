@@ -5,12 +5,14 @@ using UnityEngine;
 public class Weapon : MonoBehaviour
 {
 
+
     public Transform firePoint;
     //public GameObject bulletPrefab;
     public int damage = 40;
 
     public LineRenderer lineRenderer;
 
+  
 
     // Update is called once per frame
     void Update()
@@ -19,6 +21,7 @@ public class Weapon : MonoBehaviour
         {
            StartCoroutine (Shoot());
         }
+
     }
 
     IEnumerator Shoot()
@@ -27,6 +30,9 @@ public class Weapon : MonoBehaviour
         //  Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
 
        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, firePoint.right);
+
+       // RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, Vector2.right * new Vector2(characterDirection,0f))
+
 
         if (hitInfo)
         {
