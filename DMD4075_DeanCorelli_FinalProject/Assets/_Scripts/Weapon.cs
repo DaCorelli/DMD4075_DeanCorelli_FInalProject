@@ -24,6 +24,8 @@ public class Weapon : MonoBehaviour
 
     }
 
+    
+
     IEnumerator Shoot()
     {
         //shooting logic 
@@ -34,10 +36,12 @@ public class Weapon : MonoBehaviour
        // RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, Vector2.right * new Vector2(characterDirection,0f))
 
 
+
+
         if (hitInfo)
         {
             Enemy enemy = hitInfo.transform.GetComponent<Enemy>();
-            if(enemy != null)
+            if (enemy != null)
             {
                 enemy.TakeDamage(damage);
             }
@@ -60,4 +64,10 @@ public class Weapon : MonoBehaviour
 
 
 
+
+
+
+
+
 }
+
