@@ -19,26 +19,26 @@ public class PlayerHealth : MonoBehaviour
         currentHealth = health;
     }
 
-    public void TakeDamage(int damage)
-    {
-      currentHealth -= damage;
+   // public void TakeDamage(int damage)
+   // {
+     // currentHealth -= 5;
 
-      // animator.SetTrigger("Hurt");
+     // animator.SetTrigger("Pain");
 
-        if (currentHealth <= 0)
-       {
-            Die();
-        }
-    }
+        //if (currentHealth <= 0)
+     //  {
+        //    Die();
+        //}
+   // }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.collider.tag == "Enemy")
         {
-            health -= 10;
-            animator.SetTrigger("Hurt");
-           
+            health -= 5;
+            
         }
+        
     }
 
 
