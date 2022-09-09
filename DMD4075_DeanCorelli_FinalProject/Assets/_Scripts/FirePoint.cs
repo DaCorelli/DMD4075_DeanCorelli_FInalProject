@@ -10,14 +10,19 @@ public class FirePoint : MonoBehaviour
         
     }
 
-    private void Flip()
+ void Flip()
     {
-        transform.Rotate(0f, 180f, 0f);
+        Vector2 scale = transform.localScale;
+        scale.x *= -1;
+        transform.localScale = scale;
     }
 
     // Update is called once per frame
     void Update()
     {
         
+      
+
+
     }
 }

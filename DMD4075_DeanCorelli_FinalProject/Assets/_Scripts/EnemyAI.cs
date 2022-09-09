@@ -5,21 +5,37 @@ using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
+    public float timeBTWShots;
+    public float shootSpeed;
+
+    public GameObject bullet;
+
     [SerializeField]
     Transform player;
 
+    public Transform shootPos;
+
     [SerializeField]
-    float agroRange;
+    float agroRange, Stop;
+
+    [SerializeField]
+    float fireRange;
 
     [SerializeField]
     float moveSpeed;
 
-    Rigidbody2D rb2d; 
+    Rigidbody2D rb2d;
+
+    public bool canShoot;
+
+   
 
     // Start is called before the first frame update
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
+
+        canShoot = true; 
     }
 
     // Update is called once per frame
@@ -28,18 +44,44 @@ public class EnemyAI : MonoBehaviour
         //distance to player 
         float distToPlayer = Vector2.Distance(transform.position, player.position);
 
-        if(distToPlayer < agroRange)
+
+        if(distToPlayer <= fireRange)
+        {
+            if(canShoot)
+            StartCoroutine(Attack());
+
+            StopChasingPlayer();
+        }
+
+        if (distToPlayer > agroRange) ;
         {
             //chase player
             ChasePlayer();
         }
-        else
+
+        if(distToPlayer > Stop)
         {
-            //stop chasing player 
             StopChasingPlayer();
         }
      
+     
     }
+
+    IEnumerator Attack()
+    {
+
+        canShoot = false; 
+
+        yield return new WaitForSeconds(timeBTWShots);
+        GameObject newBullet = Instantiate(bullet, shootPos.position, Quaternion.identity);
+
+        newBullet.GetComponent<Rigidbody2D>().velocity = new Vector2(shootSpeed * moveSpeed *Time.fixedDeltaTime, 0f);
+        Debug.Log("Shoot");
+
+        canShoot = true; 
+
+    }
+
 
     void StopChasingPlayer()
     {
@@ -53,6 +95,7 @@ public class EnemyAI : MonoBehaviour
         {
             rb2d.velocity = new Vector2(moveSpeed, 0);
             transform.localScale = new Vector2(-1, 1);
+            
         }
         else 
         {

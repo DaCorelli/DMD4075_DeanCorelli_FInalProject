@@ -22,9 +22,13 @@ public class Weapon : MonoBehaviour
            StartCoroutine (Shoot());
         }
 
+        
+
+
     }
 
-    
+  
+
 
     IEnumerator Shoot()
     {
