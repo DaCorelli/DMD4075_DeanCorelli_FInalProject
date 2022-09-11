@@ -50,10 +50,10 @@ public class EnemyAI : MonoBehaviour
             if(canShoot)
             StartCoroutine(Attack());
 
-            StopChasingPlayer();
+          
         }
 
-        if (distToPlayer > agroRange) ;
+        if (distToPlayer < agroRange) 
         {
             //chase player
             ChasePlayer();
