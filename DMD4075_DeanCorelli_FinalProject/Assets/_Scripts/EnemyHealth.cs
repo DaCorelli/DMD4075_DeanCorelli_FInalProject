@@ -30,7 +30,7 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("enemy died");
+       Debug.Log("enemy died");
 
         animator.SetBool("IsDead", true);
 
@@ -39,7 +39,7 @@ public class Enemy : MonoBehaviour
         this.enabled = false;
 
 
-    }
+   }
 
 
 
