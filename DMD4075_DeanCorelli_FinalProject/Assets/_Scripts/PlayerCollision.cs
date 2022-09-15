@@ -29,7 +29,9 @@ public class PlayerCollision : MonoBehaviour
     IEnumerator GetHurt()
     {
         Physics2D.IgnoreLayerCollision(6,9);
+        GetComponent<Animator>().SetLayerWeight(1, 1);
         yield return new WaitForSeconds(3);
+        GetComponent<Animator>().SetLayerWeight(1, 0);
         Physics2D.IgnoreLayerCollision(6, 9, false);
     }
 }
