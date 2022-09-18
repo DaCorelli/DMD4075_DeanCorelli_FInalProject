@@ -1,7 +1,58 @@
 fileFormatVersion: 2
 guid: dbd3cb2800d25b24da5d73571f8c22e1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 9370420629021488
+    second: Rock Golem Hurt_SpriteSheet_0
+  - first:
+      213: -3704710998713555160
+    second: Rock Golem Hurt_SpriteSheet_1
+  - first:
+      213: 6716036916320742735
+    second: Rock Golem Hurt_SpriteSheet_2
+  - first:
+      213: -7416717482981999065
+    second: Rock Golem Hurt_SpriteSheet_3
+  - first:
+      213: -305883712470865096
+    second: Rock Golem Hurt_SpriteSheet_4
+  - first:
+      213: 7137172354682104901
+    second: Rock Golem Hurt_SpriteSheet_5
+  - first:
+      213: -3926478887229024546
+    second: Rock Golem Hurt_SpriteSheet_6
+  - first:
+      213: 5773411103389982860
+    second: Rock Golem Hurt_SpriteSheet_7
+  - first:
+      213: 3553405774175899711
+    second: Rock Golem Hurt_SpriteSheet_8
+  - first:
+      213: 4733138727861038124
+    second: Rock Golem Hurt_SpriteSheet_9
+  - first:
+      213: -56451722685831309
+    second: Rock Golem Hurt_SpriteSheet_10
+  - first:
+      213: -6512564401035494585
+    second: Rock Golem Hurt_SpriteSheet_11
+  - first:
+      213: 4158495226199849422
+    second: Rock Golem Hurt_SpriteSheet_12
+  - first:
+      213: 7689878376472928168
+    second: Rock Golem Hurt_SpriteSheet_13
+  - first:
+      213: -5154637262549668725
+    second: Rock Golem Hurt_SpriteSheet_14
+  - first:
+      213: -7386829414763357241
+    second: Rock Golem Hurt_SpriteSheet_15
+  - first:
+      213: 6366828524312067267
+    second: Rock Golem Hurt_SpriteSheet_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +83,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +92,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 15
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +119,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +152,364 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 382
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332df0195a412000800000000000000
+      internalID: 9370420629021488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 420
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827223e99f8369cc0800000000000000
+      internalID: -3704710998713555160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 382
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d25b70ef7243d50800000000000000
+      internalID: 6716036916320742735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 426
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ebd63aeb6821990800000000000000
+      internalID: -7416717482981999065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 420
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ba897526841cbf0800000000000000
+      internalID: -305883712470865096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 382
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca09531745c0360800000000000000
+      internalID: 7137172354682104901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 426
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed694a461485289c0800000000000000
+      internalID: -3926478887229024546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 424
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c802bd74fc64f1050800000000000000
+      internalID: 5773411103389982860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 382
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30939099bb305130800000000000000
+      internalID: 3553405774175899711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 382
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2dc2889c7fa140800000000000000
+      internalID: 4733138727861038124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 416
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772a521571773ff0800000000000000
+      internalID: -56451722685831309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 418
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bbc6bae29be95a0800000000000000
+      internalID: -6512564401035494585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 416
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9bcc52061f5b930800000000000000
+      internalID: 4158495226199849422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 182
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af50a304afe7ba60800000000000000
+      internalID: 7689878376472928168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 237
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2cbb58bc0778b0800000000000000
+      internalID: -5154637262549668725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 182
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9f9cc8c5bc7990800000000000000
+      internalID: -7386829414763357241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Hurt_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccf1795fc48b5850800000000000000
+      internalID: 6366828524312067267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,40 @@
 fileFormatVersion: 2
 guid: ae2233dddab9ee94f800104b75a2b849
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6039506052372253050
+    second: Rock Golem_WalkSpriteSheet_0
+  - first:
+      213: 8041327420388538148
+    second: Rock Golem_WalkSpriteSheet_1
+  - first:
+      213: 3090158722106862727
+    second: Rock Golem_WalkSpriteSheet_2
+  - first:
+      213: 6799889158808147207
+    second: Rock Golem_WalkSpriteSheet_3
+  - first:
+      213: 419175415806373461
+    second: Rock Golem_WalkSpriteSheet_4
+  - first:
+      213: 4587449052890612637
+    second: Rock Golem_WalkSpriteSheet_5
+  - first:
+      213: -4136647014086402337
+    second: Rock Golem_WalkSpriteSheet_6
+  - first:
+      213: 4871632330170910522
+    second: Rock Golem_WalkSpriteSheet_7
+  - first:
+      213: 5749912203102648064
+    second: Rock Golem_WalkSpriteSheet_8
+  - first:
+      213: -141247329620793767
+    second: Rock Golem_WalkSpriteSheet_9
+  - first:
+      213: 1759413447225956508
+    second: Rock Golem_WalkSpriteSheet_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +65,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +74,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 15
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +101,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +134,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 894
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b7897e3d5f2ca0800000000000000
+      internalID: -6039506052372253050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 894
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427fdde1fa8889f60800000000000000
+      internalID: 8041327420388538148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 894
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c21c24cf272ea20800000000000000
+      internalID: 3090158722106862727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 894
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051ace992f0e5e50800000000000000
+      internalID: 6799889158808147207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 894
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e27bdd1d531d500800000000000000
+      internalID: 419175415806373461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 694
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934fb6bb94e9af30800000000000000
+      internalID: 4587449052890612637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 694
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde1334257da796c0800000000000000
+      internalID: -4136647014086402337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 694
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3745241bc38b9340800000000000000
+      internalID: 4871632330170910522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 694
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007fd933faacbcf40800000000000000
+      internalID: 5749912203102648064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 694
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ea745d403a0ef0800000000000000
+      internalID: -141247329620793767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem_WalkSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 494
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d2fe5531ba6810800000000000000
+      internalID: 1759413447225956508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
