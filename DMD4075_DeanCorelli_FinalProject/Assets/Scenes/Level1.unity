@@ -18438,14 +18438,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timeBTWShots: 0
   shootSpeed: 0
-  bullet: {fileID: 0}
+  bullet: {fileID: 9173391906898154290, guid: 9706bc4888c81e849b7b8c5715fb5806, type: 3}
   player: {fileID: 1077172393}
-  shootPos: {fileID: 0}
-  agroRange: 15
-  Stop: 20
+  shootPos: {fileID: 722695577}
+  agroRange: 10
+  Stop: 15
   fireRange: 0
-  moveSpeed: 2
+  moveSpeed: 3
   canShoot: 0
+  animator: {fileID: 722695575}
 --- !u!50 &722695573
 Rigidbody2D:
   serializedVersion: 4

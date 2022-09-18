@@ -28,6 +28,8 @@ public class EnemyAI : MonoBehaviour
 
     public bool canShoot;
 
+    public Animator animator; 
+
    
 
     // Start is called before the first frame update
@@ -50,6 +52,8 @@ public class EnemyAI : MonoBehaviour
             if(canShoot)
             StartCoroutine(Attack());
 
+            
+
           
         }
 
@@ -57,11 +61,13 @@ public class EnemyAI : MonoBehaviour
         {
             //chase player
             ChasePlayer();
+            
         }
 
         if(distToPlayer > Stop)
         {
             StopChasingPlayer();
+            //animator.SetBool("Attack", true);
         }
      
      

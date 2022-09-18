@@ -1,7 +1,193 @@
 fileFormatVersion: 2
 guid: c4edffea320b5b242ba41050da277dd4
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5207903135248719786
+    second: Rock Golem Smash Attack_SpriteSheet_0
+  - first:
+      213: -176239422984951505
+    second: Rock Golem Smash Attack_SpriteSheet_1
+  - first:
+      213: -1448625927264550327
+    second: Rock Golem Smash Attack_SpriteSheet_2
+  - first:
+      213: 3936309719240586677
+    second: Rock Golem Smash Attack_SpriteSheet_3
+  - first:
+      213: 4749277609972696170
+    second: Rock Golem Smash Attack_SpriteSheet_4
+  - first:
+      213: 8466518463391811755
+    second: Rock Golem Smash Attack_SpriteSheet_5
+  - first:
+      213: 5723064990418719220
+    second: Rock Golem Smash Attack_SpriteSheet_6
+  - first:
+      213: -1429292624075271574
+    second: Rock Golem Smash Attack_SpriteSheet_7
+  - first:
+      213: -2083867663306728102
+    second: Rock Golem Smash Attack_SpriteSheet_8
+  - first:
+      213: 6385970979329696623
+    second: Rock Golem Smash Attack_SpriteSheet_9
+  - first:
+      213: 2045383192794881800
+    second: Rock Golem Smash Attack_SpriteSheet_10
+  - first:
+      213: -2076588320314850400
+    second: Rock Golem Smash Attack_SpriteSheet_11
+  - first:
+      213: -4796864132261321503
+    second: Rock Golem Smash Attack_SpriteSheet_12
+  - first:
+      213: 7814132461052149424
+    second: Rock Golem Smash Attack_SpriteSheet_13
+  - first:
+      213: -3714462239476305316
+    second: Rock Golem Smash Attack_SpriteSheet_14
+  - first:
+      213: 2255803859504978848
+    second: Rock Golem Smash Attack_SpriteSheet_15
+  - first:
+      213: -4946482749483891736
+    second: Rock Golem Smash Attack_SpriteSheet_16
+  - first:
+      213: 2376402416683288966
+    second: Rock Golem Smash Attack_SpriteSheet_17
+  - first:
+      213: -5019053293847696596
+    second: Rock Golem Smash Attack_SpriteSheet_18
+  - first:
+      213: -3120282476560462680
+    second: Rock Golem Smash Attack_SpriteSheet_19
+  - first:
+      213: -7220987896255459128
+    second: Rock Golem Smash Attack_SpriteSheet_20
+  - first:
+      213: 1944516354540821487
+    second: Rock Golem Smash Attack_SpriteSheet_21
+  - first:
+      213: -6511231798179552320
+    second: Rock Golem Smash Attack_SpriteSheet_22
+  - first:
+      213: -8961930351936683220
+    second: Rock Golem Smash Attack_SpriteSheet_23
+  - first:
+      213: -1419741004756302790
+    second: Rock Golem Smash Attack_SpriteSheet_24
+  - first:
+      213: -3374777245195687582
+    second: Rock Golem Smash Attack_SpriteSheet_25
+  - first:
+      213: 5144629671042117883
+    second: Rock Golem Smash Attack_SpriteSheet_26
+  - first:
+      213: 6730366166980262056
+    second: Rock Golem Smash Attack_SpriteSheet_27
+  - first:
+      213: 329079534118179631
+    second: Rock Golem Smash Attack_SpriteSheet_28
+  - first:
+      213: 6256544139222466183
+    second: Rock Golem Smash Attack_SpriteSheet_29
+  - first:
+      213: -1545080143369528602
+    second: Rock Golem Smash Attack_SpriteSheet_30
+  - first:
+      213: -3003127764401611255
+    second: Rock Golem Smash Attack_SpriteSheet_31
+  - first:
+      213: 1360649480362002078
+    second: Rock Golem Smash Attack_SpriteSheet_32
+  - first:
+      213: -3828488941191711937
+    second: Rock Golem Smash Attack_SpriteSheet_33
+  - first:
+      213: 3221773267852542197
+    second: Rock Golem Smash Attack_SpriteSheet_34
+  - first:
+      213: 1746660487925145134
+    second: Rock Golem Smash Attack_SpriteSheet_35
+  - first:
+      213: 7845719393479419317
+    second: Rock Golem Smash Attack_SpriteSheet_36
+  - first:
+      213: 7172736146209140993
+    second: Rock Golem Smash Attack_SpriteSheet_37
+  - first:
+      213: -1879378191349879492
+    second: Rock Golem Smash Attack_SpriteSheet_38
+  - first:
+      213: -1663826661867571082
+    second: Rock Golem Smash Attack_SpriteSheet_39
+  - first:
+      213: 263616606951304042
+    second: Rock Golem Smash Attack_SpriteSheet_40
+  - first:
+      213: -2430846920766442576
+    second: Rock Golem Smash Attack_SpriteSheet_41
+  - first:
+      213: -4121121356758622847
+    second: Rock Golem Smash Attack_SpriteSheet_42
+  - first:
+      213: 4520896933701475619
+    second: Rock Golem Smash Attack_SpriteSheet_43
+  - first:
+      213: -1708628145773471341
+    second: Rock Golem Smash Attack_SpriteSheet_44
+  - first:
+      213: 4827802393000090898
+    second: Rock Golem Smash Attack_SpriteSheet_45
+  - first:
+      213: -7597974545391229875
+    second: Rock Golem Smash Attack_SpriteSheet_46
+  - first:
+      213: 2976111448610252156
+    second: Rock Golem Smash Attack_SpriteSheet_47
+  - first:
+      213: -2561259273781679820
+    second: Rock Golem Smash Attack_SpriteSheet_48
+  - first:
+      213: 6031420366041993889
+    second: Rock Golem Smash Attack_SpriteSheet_49
+  - first:
+      213: -7139342712198092161
+    second: Rock Golem Smash Attack_SpriteSheet_50
+  - first:
+      213: -6318373916821301381
+    second: Rock Golem Smash Attack_SpriteSheet_51
+  - first:
+      213: -5961786222695235136
+    second: Rock Golem Smash Attack_SpriteSheet_52
+  - first:
+      213: -7737922975815366336
+    second: Rock Golem Smash Attack_SpriteSheet_53
+  - first:
+      213: 6992981538994207103
+    second: Rock Golem Smash Attack_SpriteSheet_54
+  - first:
+      213: -940040559157159451
+    second: Rock Golem Smash Attack_SpriteSheet_55
+  - first:
+      213: 1902757131969078023
+    second: Rock Golem Smash Attack_SpriteSheet_56
+  - first:
+      213: 3302216754122773404
+    second: Rock Golem Smash Attack_SpriteSheet_57
+  - first:
+      213: 3530540639757014820
+    second: Rock Golem Smash Attack_SpriteSheet_58
+  - first:
+      213: 5095851756642193023
+    second: Rock Golem Smash Attack_SpriteSheet_59
+  - first:
+      213: -6755420094296625295
+    second: Rock Golem Smash Attack_SpriteSheet_60
+  - first:
+      213: -744644331036422389
+    second: Rock Golem Smash Attack_SpriteSheet_61
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +218,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +227,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 15
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +254,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +287,1309 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 894
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf94211f40364840800000000000000
+      internalID: 5207903135248719786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 894
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ef85bd2fdd8df0800000000000000
+      internalID: -176239422984951505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 894
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c9f0f46275ebe0800000000000000
+      internalID: -1448625927264550327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 894
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5b04d85d490a630800000000000000
+      internalID: 3936309719240586677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 894
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a648322d2d2d8e140800000000000000
+      internalID: 4749277609972696170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 694
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba841c65fad1f7570800000000000000
+      internalID: 8466518463391811755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 703
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d16469496c6f40800000000000000
+      internalID: 5723064990418719220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 693
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6258ed5ee12a2ce0800000000000000
+      internalID: -1429292624075271574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 704
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ddda9a66d9413e0800000000000000
+      internalID: -2083867663306728102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 703
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6366e875c68f9850800000000000000
+      internalID: 6385970979329696623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 693
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fd71c4d29a26c10800000000000000
+      internalID: 2045383192794881800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 704
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a388e6cce97e23e0800000000000000
+      internalID: -2076588320314850400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 705
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e460c09c7d1e6db0800000000000000
+      internalID: -4796864132261321503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 703
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebcd08210617c60800000000000000
+      internalID: 7814132461052149424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 693
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b964f544937cc0800000000000000
+      internalID: -3714462239476305316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 704
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abdfb098a93e4f10800000000000000
+      internalID: 2255803859504978848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 705
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34a6d95209a5bb0800000000000000
+      internalID: -4946482749483891736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 703
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68989c1486daaf020800000000000000
+      internalID: 2376402416683288966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 693
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b247f0f9db85ab0800000000000000
+      internalID: -5019053293847696596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 704
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acccb99e9782b4d0800000000000000
+      internalID: -3120282476560462680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c05c4c44c5e9cb90800000000000000
+      internalID: -7220987896255459128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 700
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd75c625f4cfa10800000000000000
+      internalID: 1944516354540821487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a7437d2573a5a0800000000000000
+      internalID: -6511231798179552320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 700
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c507c3d3d0a380800000000000000
+      internalID: -8961930351936683220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c17a04111c4ce0800000000000000
+      internalID: -1419741004756302790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 700
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692a00d9f16a21d0800000000000000
+      internalID: -3374777245195687582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 696
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0766bad65656740800000000000000
+      internalID: 5144629671042117883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a87a2fae50176d50800000000000000
+      internalID: 6730366166980262056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 700
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2317fdb710219400800000000000000
+      internalID: 329079534118179631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 696
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e38ebfeb5b3d650800000000000000
+      internalID: 6256544139222466183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea13f8bbc5ce8ae0800000000000000
+      internalID: -1545080143369528602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e9ab3a53fb256d0800000000000000
+      internalID: -3003127764401611255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 693
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960ccc4e7ff1e210800000000000000
+      internalID: 1360649480362002078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b1c997997edac0800000000000000
+      internalID: -3828488941191711937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 693
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f04339a7b906bc20800000000000000
+      internalID: 3221773267852542197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 693
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e1df5a5726d3810800000000000000
+      internalID: 1746660487925145134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5ebbf483891ec60800000000000000
+      internalID: 7845719393479419317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 693
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101766ea58daa8360800000000000000
+      internalID: 7172736146209140993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 494
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d69f90e7b1be5e0800000000000000
+      internalID: -1879378191349879492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 494
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783f836776e8e8e0800000000000000
+      internalID: -1663826661867571082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 494
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be93648ed88a300800000000000000
+      internalID: 263616606951304042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 494
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33d50da95e34ed0800000000000000
+      internalID: -2430846920766442576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 494
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d502ee5f5dec6c0800000000000000
+      internalID: -4121121356758622847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 303
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ddd67fec37dbe30800000000000000
+      internalID: 4520896933701475619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 293
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39910fd01cbb948e0800000000000000
+      internalID: -1708628145773471341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1d8892bccff240800000000000000
+      internalID: 4827802393000090898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 303
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44ee7128629e8690800000000000000
+      internalID: -7597974545391229875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 293
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75236a28954d4920800000000000000
+      internalID: 2976111448610252156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4396198b244947cd0800000000000000
+      internalID: -2561259273781679820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 305
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a25df8fdd8e3b350800000000000000
+      internalID: 6031420366041993889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 303
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa8ad01a5fbec90800000000000000
+      internalID: -7139342712198092161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 293
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d5c91660a058a0800000000000000
+      internalID: -6318373916821301381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1ce61740b734da0800000000000000
+      internalID: -5961786222695235136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049013ffc006d9490800000000000000
+      internalID: -7737922975815366336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793d98c8af0c0160800000000000000
+      internalID: 6992981538994207103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95afc871e44f2f0800000000000000
+      internalID: -940040559157159451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703abd0c783f76a10800000000000000
+      internalID: 1902757131969078023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 293
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d4d854a4d3dd20800000000000000
+      internalID: 3302216754122773404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4271cc991000ff030800000000000000
+      internalID: 3530540639757014820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e45b67c2a18b640800000000000000
+      internalID: 5095851756642193023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 296
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe9ea473def32a0800000000000000
+      internalID: -6755420094296625295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Golem Smash Attack_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 293
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fc09c1ded7aa5f0800000000000000
+      internalID: -744644331036422389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
