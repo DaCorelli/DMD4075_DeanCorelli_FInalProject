@@ -18444,7 +18444,7 @@ MonoBehaviour:
   agroRange: 10
   Stop: 15
   fireRange: 0
-  moveSpeed: 3
+  moveSpeed: 2
   canShoot: 0
   animator: {fileID: 722695575}
 --- !u!50 &722695573
