@@ -65,7 +65,7 @@ PrefabInstance:
     - target: {fileID: 6802370779290706179, guid: ca5f13ee7cc9e814ea628528af327e55,
         type: 3}
       propertyPath: m_Name
-      value: BossBullet
+      value: BossBullet Variant
       objectReference: {fileID: 0}
     - target: {fileID: 6802370779290706179, guid: ca5f13ee7cc9e814ea628528af327e55,
         type: 3}
@@ -75,7 +75,7 @@ PrefabInstance:
     - target: {fileID: 6802370779290706179, guid: ca5f13ee7cc9e814ea628528af327e55,
         type: 3}
       propertyPath: m_TagString
-      value: Bullet
+      value: slimeBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca5f13ee7cc9e814ea628528af327e55, type: 3}
