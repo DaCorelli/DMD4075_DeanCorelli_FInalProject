@@ -10,6 +10,7 @@ public class EnemyAI : MonoBehaviour
 
     public GameObject bullet;
 
+
     [SerializeField]
     Transform player;
 
