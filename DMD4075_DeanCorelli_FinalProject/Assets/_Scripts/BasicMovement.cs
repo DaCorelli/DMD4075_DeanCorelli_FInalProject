@@ -65,7 +65,7 @@ public class BasicMovement : MonoBehaviour
         if (Input.GetKeyDown("w") && isGrounded == true)
         {
 
-            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 10f), ForceMode2D.Impulse);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 13f), ForceMode2D.Impulse);
         }
 
    
