@@ -12,6 +12,7 @@ TagManager:
   - Enemy
   - Bullet
   - slimeBall
+  - Spike
   layers:
   - Default
   - TransparentFX

@@ -24,6 +24,20 @@ public class PlayerCollision : MonoBehaviour
         {
             PlayerHealth.health--;
         }
+
+        if(collision.transform.tag == "Spike")
+        {
+            PlayerHealth.health--;
+            if(PlayerHealth.health <= 0)
+            {
+                gameObject.SetActive(false);
+            }
+            else
+            {
+                StartCoroutine(GetHurt());
+            }
+        }
+    
     }
 
     IEnumerator GetHurt()
