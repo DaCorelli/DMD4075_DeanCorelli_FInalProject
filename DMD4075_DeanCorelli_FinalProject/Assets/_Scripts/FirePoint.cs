@@ -10,12 +10,7 @@ public class FirePoint : MonoBehaviour
         
     }
 
- void Flip()
-    {
-        Vector2 scale = transform.localScale;
-        scale.x *= -1;
-        transform.localScale = scale;
-    }
+
 
     // Update is called once per frame
     void Update()

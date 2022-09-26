@@ -5,10 +5,12 @@ using UnityEngine;
 public class Weapon : MonoBehaviour
 {
 
-
+    
     public Transform firePoint;
-    public GameObject bulletPrefab;
+   // public GameObject bulletPrefab;
     public int damage = 40;
+
+    public Bullet ProjectilePrefab;
 
     //public LineRenderer lineRenderer;
 
@@ -23,12 +25,13 @@ public class Weapon : MonoBehaviour
             Shoot();
         }
 
+      
 
     }
 
     void Shoot()
     {
-        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        Instantiate(ProjectilePrefab, firePoint.position, transform.rotation);
     }
 
    // IEnumerator Shoot()

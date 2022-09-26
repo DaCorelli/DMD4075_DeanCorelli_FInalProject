@@ -13,72 +13,82 @@ public class BasicMovement : MonoBehaviour
 
     // bool facingRight = true;
 
-    
 
-    Vector2 move;
-    public int speed;
+
+    Vector2 move;  
+    public int speed;  
+
+  // public float MovementSpeed = 1;
+  // public float JumpForce = 1;
+   // private Rigidbody2D _rigidbody; 
 
     public bool isGrounded = false;
 
     public Animator animator;
+  
 
-    private bool m_FacingRight = true; 
 
     // Start is called before the first frame update
     void Start()
     {
-        
+       // _rigidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
 
+       // var movement = Input.GetAxis("Horizontal");
+       // transform.position += new Vector3(movement, 0, 0) * Time.deltaTime * MovementSpeed;
+
+        //if (!Mathf.Approximately(0, movement))
+          //  transform.rotation = movement > 0 ? Quaternion.Euler(0, 180, 0) : Quaternion.identity;
+
+       // if(Input.GetButtonDown("Jump") && Mathf.Abs(_rigidbody.velocity.y) < 0.001f)
+       // {
+          //  _rigidbody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
+       // }
+
+        Jump();  
+
+       // Play walking animations   
+        animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));  
 
 
-        Jump();
+        //Left/Right Movemen
+        move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")); 
 
-        //Play walking animations 
-        animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
+        transform.position += new Vector3(move.x, move.y, 0) * speed * Time.deltaTime; 
+        transform.Translate(move * speed * Time.deltaTime); 
 
+   
 
-        //Left/Right Movement
-        move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-
-        transform.position += new Vector3(move.x, move.y, 0) * speed * Time.deltaTime;
-
-        transform.Translate(move * speed * Time.deltaTime);
-
-      //  if(Input.GetMouseButtonDown(0) && Time.time > nextFire)
-      //  {
-          //  nextFire = Time.time + fireRate;
-           // fire();
-     //   }
+        //  if(Input.GetMouseButtonDown(0) && Time.time > nextFire)
+        //  {
+        //  nextFire = Time.time + fireRate;
+        // fire();
+        //   }
 
 
-       // Vector3 horizontal = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
+        // Vector3 horizontal = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
         //transform.position = transform.position + horizontal * Time.deltaTime;
 
     }
+
+
+
+
     void Jump()
     {
         if (Input.GetKeyDown("w") && isGrounded == true)
         {
 
-            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 13f), ForceMode2D.Impulse);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 12f), ForceMode2D.Impulse);
         }
 
    
     }
 
-    private void Flip()
-    {
-        m_FacingRight = !m_FacingRight;
-
-        Vector3 theScale = transform.localScale;
-        theScale.x *= -1;
-        transform.localScale = theScale;
-    }
 
 
 

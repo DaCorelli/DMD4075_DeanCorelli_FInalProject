@@ -9,13 +9,19 @@ public class Bullet : MonoBehaviour
 
     public int damage = 50;
 
+   
 
     // Start is called before the first frame update
     void Start()
     {
-        rb.velocity = transform.right * speed;
+       // rb.velocity = transform.right * speed;
 
 
+    }
+
+    private void Update()
+    {
+        transform.position += transform.right * Time.deltaTime * speed;
     }
 
     void OnTriggerEnter2D(Collider2D hitInfo)
@@ -28,6 +34,9 @@ public class Bullet : MonoBehaviour
         Destroy(gameObject);
 
     }
+
+  
+
 }
 
 
