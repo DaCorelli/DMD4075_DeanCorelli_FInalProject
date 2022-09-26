@@ -48,10 +48,10 @@ public class Weapon : MonoBehaviour
 
        // if (hitInfo)
        // {
-           // //Enemy enemy = hitInfo.transform.GetComponent<Enemy>();
-            //if (enemy != null)
+           // Enemy enemy = hitInfo.transform.GetComponent<Enemy>();
+           // if (enemy != null)
            // {
-            //    enemy.TakeDamage(damage);
+             //   enemy.TakeDamage(damage);
           //  }
 
           //  lineRenderer.SetPosition(0, firePoint.position);
