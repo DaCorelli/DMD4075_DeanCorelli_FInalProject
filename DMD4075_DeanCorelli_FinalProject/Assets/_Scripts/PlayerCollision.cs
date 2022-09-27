@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerCollision : MonoBehaviour
 {
@@ -13,6 +14,7 @@ public class PlayerCollision : MonoBehaviour
             {
                 //PlayerManager.isGameOver = true;
                 gameObject.SetActive(false);
+                SceneManager.LoadScene("GameOver");
             }
             else
             {
@@ -30,12 +32,20 @@ public class PlayerCollision : MonoBehaviour
             PlayerHealth.health--;
             if(PlayerHealth.health <= 0)
             {
+                SceneManager.LoadScene("GameOver");
                 gameObject.SetActive(false);
             }
             else
             {
                 StartCoroutine(GetHurt());
             }
+        }
+
+        if(collision.transform.tag == "GameOver")
+        {
+            SceneManager.LoadScene("GameOver");
+            PlayerHealth.health = 0;
+            gameObject.SetActive(false);
         }
     
     }
