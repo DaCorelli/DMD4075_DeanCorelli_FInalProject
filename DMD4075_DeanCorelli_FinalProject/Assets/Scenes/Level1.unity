@@ -93199,7 +93199,7 @@ MonoBehaviour:
   - {fileID: 226927418}
   - {fileID: 460899030}
   - {fileID: 1348222506}
-  fullHeart: {fileID: 21300000, guid: fa240e06b36785948b40b901cf6e3a56, type: 3}
+  fullHeart: {fileID: 21300000, guid: 60e5f14dcb5637a46a89c4f3cb0a1f71, type: 3}
   emptyHeart: {fileID: 2427876180075812720, guid: 76ef62e7fb2d3f44090518712be6946c,
     type: 3}
 --- !u!114 &1077172399
