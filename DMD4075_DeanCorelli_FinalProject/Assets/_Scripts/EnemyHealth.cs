@@ -9,14 +9,14 @@ public class Enemy : MonoBehaviour
 
     public int maxHealth = 100;
     int currentHealth;
+    private UnityEngine.Object explosionRef;
 
-    
 
     // Start is called before the first frame update
     void Start()
     {
         currentHealth = maxHealth;
-        
+        explosionRef = Resources.Load("Explosion");
     }
 
     public void TakeDamage(int damage)
@@ -34,6 +34,9 @@ public class Enemy : MonoBehaviour
     void Die()
     {
        Debug.Log("enemy died");
+
+        GameObject explosion = (GameObject)Instantiate(explosionRef);
+        explosion.transform.position = new Vector3(transform.position.x, transform.position.y + .3f, transform.position.z);
 
         animator.SetBool("IsDead", true);
 
