@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: d4a43ad4ad9c89d4eb4a2ef0ca2b7e4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7625368239408304308
+    second: MELEELEFT_SPRITESHEET_0
+  - first:
+      213: -3203985544832246667
+    second: MELEELEFT_SPRITESHEET_1
+  - first:
+      213: -8108194554953875249
+    second: MELEELEFT_SPRITESHEET_2
+  - first:
+      213: -7484048020998485144
+    second: MELEELEFT_SPRITESHEET_3
+  - first:
+      213: -3371265264171797695
+    second: MELEELEFT_SPRITESHEET_4
+  - first:
+      213: 5036942771886362577
+    second: MELEELEFT_SPRITESHEET_5
+  - first:
+      213: 1895390230010036549
+    second: MELEELEFT_SPRITESHEET_6
+  - first:
+      213: -1310523167389421884
+    second: MELEELEFT_SPRITESHEET_7
+  - first:
+      213: -4387472157773526439
+    second: MELEELEFT_SPRITESHEET_8
+  - first:
+      213: 5628889451880343811
+    second: MELEELEFT_SPRITESHEET_9
+  - first:
+      213: -4377492584509325628
+    second: MELEELEFT_SPRITESHEET_10
+  - first:
+      213: 4163066708590870404
+    second: MELEELEFT_SPRITESHEET_11
+  - first:
+      213: -3486581940724808297
+    second: MELEELEFT_SPRITESHEET_12
+  - first:
+      213: -3315566574778101924
+    second: MELEELEFT_SPRITESHEET_13
+  - first:
+      213: -7573610037464570738
+    second: MELEELEFT_SPRITESHEET_14
+  - first:
+      213: -3255630882109542459
+    second: MELEELEFT_SPRITESHEET_15
+  - first:
+      213: 2252461264026795188
+    second: MELEELEFT_SPRITESHEET_16
+  - first:
+      213: -5462229718339290688
+    second: MELEELEFT_SPRITESHEET_17
+  - first:
+      213: -5839086026282518309
+    second: MELEELEFT_SPRITESHEET_18
+  - first:
+      213: 6760448053491023816
+    second: MELEELEFT_SPRITESHEET_19
+  - first:
+      213: 607539370789310428
+    second: MELEELEFT_SPRITESHEET_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 812
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa588bcff3d2690800000000000000
+      internalID: -7625368239408304308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 812
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c99c65f182983d0800000000000000
+      internalID: -3203985544832246667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 818
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0c736e208e97f80800000000000000
+      internalID: -8108194554953875249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 812
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8b622af1532890800000000000000
+      internalID: -7484048020998485144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 818
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433d6d9a1cd631d0800000000000000
+      internalID: -3371265264171797695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 812
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df0240a3c0d6e540800000000000000
+      internalID: 5036942771886362577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 816
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5418e7a3f57cd4a10800000000000000
+      internalID: 1895390230010036549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 812
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce65d96f1610dde0800000000000000
+      internalID: -1310523167389421884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 814
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0efd71519c13c0800000000000000
+      internalID: -4387472157773526439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 544
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30965432225dd1e40800000000000000
+      internalID: 5628889451880343811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 514
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3a65ffa50043c0800000000000000
+      internalID: -4377492584509325628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 542
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f30d55d1f26c930800000000000000
+      internalID: 4163066708590870404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 548
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7954ec6923c2d9fc0800000000000000
+      internalID: -3486581940724808297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 514
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f413154cdbcf1d0800000000000000
+      internalID: -3315566574778101924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 540
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8467913cc125e690800000000000000
+      internalID: -7573610037464570738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 552
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa11836fca1d2d0800000000000000
+      internalID: -3255630882109542459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 514
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcf4a8e599524f10800000000000000
+      internalID: 2252461264026795188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 514
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9fdc4e2034234b0800000000000000
+      internalID: -5462229718339290688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 514
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8bb76223667fea0800000000000000
+      internalID: -5839086026282518309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 514
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf30deafafe1dd50800000000000000
+      internalID: 6760448053491023816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MELEELEFT_SPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 536
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf06feb6d96e6800800000000000000
+      internalID: 607539370789310428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
