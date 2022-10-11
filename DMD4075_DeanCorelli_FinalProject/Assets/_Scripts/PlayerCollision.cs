@@ -2,9 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerCollision : MonoBehaviour
 {
+    private int Books = 0;
+
+    [SerializeField] private Text BooksText;
+
+    private UnityEngine.Object explosionRef;
+
+    void Start()
+    {
+        explosionRef = Resources.Load("Explosion");
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.transform.tag == "Enemy")
@@ -47,7 +59,20 @@ public class PlayerCollision : MonoBehaviour
             PlayerHealth.health = 0;
             gameObject.SetActive(false);
         }
+
     
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Book"))
+        {
+            Destroy(collision.gameObject);
+            GameObject explosion = (GameObject)Instantiate(explosionRef);
+            explosion.transform.position = new Vector3(transform.position.x, transform.position.y + .3f, transform.position.z);
+            Books++;
+            BooksText.text = "Books:" + Books;
+        }
     }
 
     IEnumerator GetHurt()
