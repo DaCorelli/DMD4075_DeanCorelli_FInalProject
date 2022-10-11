@@ -8,17 +8,23 @@ public class PlayerCombat : MonoBehaviour
     public Animator animator;
 
     public Transform attackPoint;
-    public float attackRange = 0.5f;
+    public float attackRange = 1f;
     public LayerMask enemyLayers;
+    public Transform attackPointLeft;
 
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown("p"))
         {
             Attack();
-        } 
+        }
+
+        if (Input.GetKeyDown("o"))
+        {
+           AttackLeft();
+        }
     }
 
     void Attack()
@@ -28,6 +34,19 @@ public class PlayerCombat : MonoBehaviour
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
         foreach(Collider2D enemy in hitEnemies)
+        {
+            enemy.GetComponent<Enemy>().TakeDamage(40);
+        }
+
+    }
+
+    void AttackLeft()
+    {
+        animator.SetTrigger("AttackLeft");
+
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+
+        foreach (Collider2D enemy in hitEnemies)
         {
             enemy.GetComponent<Enemy>().TakeDamage(40);
         }
