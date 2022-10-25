@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BasicMovement : MonoBehaviour
 {
@@ -31,7 +32,8 @@ public class BasicMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       // _rigidbody = GetComponent<Rigidbody2D>();
+        // _rigidbody = GetComponent<Rigidbody2D>();
+        DontDestroyOnLoad(gameObject);
     }
 
     // Update is called once per frame
