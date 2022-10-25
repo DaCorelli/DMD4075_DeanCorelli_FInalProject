@@ -6,10 +6,6 @@ using UnityEngine.SceneManagement;
 public class LoadLevel : MonoBehaviour
 {
 
-    public int iLevelToLoad;
-    public string sLevelToLoad;
-
-    public bool useIntegerToLoadLevel = false;
  
     void Start()
     {
@@ -24,24 +20,15 @@ public class LoadLevel : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        GameObject collisionGameObject = collision.gameObject;
-
-        if(collisionGameObject.name == "Player")
+ if(collision.gameObject.name == "Player")
         {
-            LoadScene();
+            CompleteLevel();
         }
 
     }
 
-    void LoadScene()
+private void CompleteLevel()
     {
-        if (useIntegerToLoadLevel)
-        {
-            SceneManager.LoadScene(iLevelToLoad);
-        }
-        else
-        {
-            SceneManager.LoadScene(sLevelToLoad);
-        }
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

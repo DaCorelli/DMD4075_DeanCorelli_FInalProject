@@ -33,7 +33,7 @@ public class BasicMovement : MonoBehaviour
     void Start()
     {
         // _rigidbody = GetComponent<Rigidbody2D>();
-        DontDestroyOnLoad(gameObject);
+       // DontDestroyOnLoad(gameObject);
     }
 
     // Update is called once per frame
