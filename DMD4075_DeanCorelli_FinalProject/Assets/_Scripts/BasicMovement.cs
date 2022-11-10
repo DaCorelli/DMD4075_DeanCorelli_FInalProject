@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class BasicMovement : MonoBehaviour
 {
-
+    public ParticleSystem dust;
 
     //  public GameObject bulletToRight, bulletToLeft;
     //  Vector2 bulletPos;
@@ -26,7 +26,8 @@ public class BasicMovement : MonoBehaviour
     public bool isGrounded = false;
 
     public Animator animator;
-  
+    
+
 
 
     // Start is called before the first frame update
@@ -61,8 +62,9 @@ public class BasicMovement : MonoBehaviour
         move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")); 
 
         transform.position += new Vector3(move.x, move.y, 0) * speed * Time.deltaTime; 
-        transform.Translate(move * speed * Time.deltaTime); 
-
+        transform.Translate(move * speed * Time.deltaTime);
+        
+        
    
 
         //  if(Input.GetMouseButtonDown(0) && Time.time > nextFire)
@@ -78,13 +80,16 @@ public class BasicMovement : MonoBehaviour
     }
 
 
-
+    void CreateDust()
+    {
+        dust.Play();
+    }
 
     void Jump()
     {
         if (Input.GetKeyDown("w") && isGrounded == true)
         {
-
+            CreateDust();
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 12f), ForceMode2D.Impulse);
         }
 
