@@ -7,7 +7,7 @@ public class PlayerHealth : MonoBehaviour
 {
     public Rigidbody2D rb;
 
-    public static int health = 10;
+    public static int health = 15;
     public Image[] hearts;
 
     public Sprite fullHeart;
