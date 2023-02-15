@@ -7,7 +7,8 @@ public class GameOverScreen : MonoBehaviour
 {
     public void LoadGame()
     {
-        SceneManager.LoadScene("Level 1");
+        // SceneManager.LoadScene("Level 1");
+        SceneManager.LoadScene("Title");
         PlayerHealth.health = 10;
     }
 
