@@ -457,8 +457,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -621, y: -435}
-  m_SizeDelta: {x: 574.8, y: 118}
+  m_AnchoredPosition: {x: -647.6872, y: -409.0151}
+  m_SizeDelta: {x: 521.4256, y: 169.9698}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &233292453
 MonoBehaviour:
@@ -495,7 +495,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Submitted in partial fulfillment of the requirements for the degree of
     Bachelor of Fine Arts in Digital Media and Design at the University of Connecticut,
-    [campus], Connecticut.\r\n\nSenior Project Advisor\r\nJames Coltrain\n\n\xA92023,
+    [campus], Connecticut.\r\n\nSenior Project Advisor\r\nDr. James Coltrain\n\n\xA92023,
     Dean Corelli\n\n\n\n\n\n"
 --- !u!222 &233292454
 CanvasRenderer:
