@@ -494,9 +494,9 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Submitted in partial fulfillment of the requirements for the degree of
-    Bachelor of Fine Arts in Digital Media and Design at the University of Connecticut,
-    [campus], Connecticut.\r\n\nSenior Project Advisor\r\nDr. James Coltrain\n\n\xA92023,
-    Dean Corelli\n\n\n\n\n\n"
+    Bachelor of Fine Arts in Digital Media and Design at the University of Connecticut,Storrs,
+    Connecticut.\r\n\nSenior Project Advisor\r\nDr. James Coltrain\n\n\xA92023, Dean
+    Corelli\n\n\n\n\n\n"
 --- !u!222 &233292454
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1092,7 +1092,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 2, y: -207}
+  m_AnchoredPosition: {x: 2, y: -214}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &592779873
